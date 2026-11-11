@@ -19,3 +19,6 @@ dist/
 .env*
 
 backend/.env*/
+backend/__pycache__
+*.pyc
+
