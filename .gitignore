@@ -21,4 +21,6 @@ dist/
 backend/.env*/
 backend/__pycache__
 *.pyc
+backend/*.db
 
+#缓存，产物，依赖都不进git
